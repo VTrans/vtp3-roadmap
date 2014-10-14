@@ -7,8 +7,11 @@ Across the country, Transportation Agencies are being asked to provide better in
 ###Project Justification
 
 VTrans is proposing to use the innovative Rapid Application Development (RAD) concept to collaboratively design and develop a web-based framework for the distribution of Agency data to the public.  The data to be incorporated into this framework includes information related to asset condition, project delivery, maintenance activities and performance.  The framework will provide the Agency one consistent point of dissemination for GIS maps, summary reports and performance graphs.  The implementation of the RAD concept for this work activity stems from the Agency’s positive experiences with a similar application used during Irene; a highly concentrated focused effort of a team of individuals producing high quality work as an effective team. 
+
 Rapid Application Development systems commonly have these advantages: increased speed of development and increased quality. The speed increases can be achieved using a variety of methods including, rapid prototyping, virtualization of system related routines, the use of CASE (computer aided software engineering) tools and other techniques. Quality, as defined by RAD, is both the degree to which a delivered application meets the needs of users as well as the degree to which a delivered system has low maintenance costs (sustainability). The RAD development model delivers the advantages of interoperability, extensibility, and portability. Early RAD systems had two primary disadvantages: reduced Scalability, and reduced features. Reduced scalability occurs because a RAD developed application starts as a prototype and evolves into a finished application. Reduced features occur due to time boxing, where features are pushed to later versions in order to finish a release in a short amount of time. The Agency believes the reduced scalability to be mitigated by the development of a framework that can be used for additional content areas as well as the development of organizational knowledge in leveraging these tools.  The reduced functionality associated with the short time boxes is managed by prioritizing functionality included in the project and intentionally keeping the scope narrow.  This is a risk that VTrans is willing to accept in order to achieve the anticipated benefits of data/information sharing and effective communication and collaboration. The project will be setup using an RAD project model and will feature two time boxes each consisting of a week of development time.  During this project the project team will co-locate to the Materials and Research conference room for the two week duration.  Staff will be temporarily removed from their normal duties.  
+
 In developing VTransparency 3.0 the Agency’s goals are to provide a sustainable framework for the Agency to share data and support useful, content-driven discussions. Using VTransparency 3.0 external users will be able to quickly and easily examine data from a variety of internal sources thus informing planning decisions and enhancing the Agency’s ability to serve the public.  VTransparency 3.0 is the first phase of a larger data management effort that is being developed within VTrans and is intended to reduce the time and costs the Agency spends on data management and information dissemination associated with effective corridor management. Anticipated benefits include a reduction in overhead by reducing the amount of VTrans time spent on public inquiries by providing the customer with the necessary tools and information to answer their own question.  The project will also increase data-sharing with sister agencies and develop a customer service oriented culture within the Agency.   Indirect benefits include the empowerment of employees resulting in the formation of new collaborative relationships across divisions and technical areas, renewed appreciation for our relationship with our external stakeholders and an understanding of the applicability of the RAD concept to our business processes.  
+
 In developing VTransparency 3.0, the Agency’s primary aim is to understand and develop a structure to organize and disseminate information.   The vision for VTransparency 3.0 is to provide VTrans customers with up to date information that can be easily digested or consumed. Customers will be led to self-service data following logical navigation with limited “mouse clicks”.  After this project is complete we can expect our stakeholders to be able to utilize this resource to find the answers to the Agency’s most commonly asked questions as well as the avenues needed to find more information in our various business units.  VTransparency 3.0 will demonstrate transparency in VTrans decision making process and providing VTrans’ customers with information that VTrans uses in making capital investment and maintenance decisions for Vermont’s transportation network.  
 
 ###Project Goals
@@ -52,7 +55,7 @@ To keep the Core Team nimble and efficient, the number of team members has inten
 
 ###Visual Diagram
 
-![diagram](github.com)
+![diagram](https://raw.githubusercontent.com/VTrans/vtp3-roadmap/master/img/communication_plan.png)
 
 ###Project Cost
 
@@ -83,7 +86,7 @@ To keep the Core Team nimble and efficient, the number of team members has inten
 
 ###Project Schedule
 
-![schedule](link)
+![schedule](https://raw.githubusercontent.com/VTrans/vtp3-roadmap/master/img/schedule.png)
 
 ###Project Assumptions and Risks
 
