@@ -64,7 +64,29 @@ To keep the Core Team nimble and efficient, the number of team members has inten
 |                |1      |40                  |40           |               |            |              |40h follow-up         |
 |                |1      |40                  |40           |               |            |              |Implementation/Rollout|
 |                |       |                    |             |               |            |              |                      |
-|*Core Resources* |       |                    |             |               |            |              |                      |
+|*Core Resources*|       |                    |*45*         |*$35*          |*$1,575*    |*$2,559*      |                      |
+|                |3      |15                  |45           |               |            |              |15hrs support each    |
 |                |       |                    |             |               |            |              |                      |
+|*Testing Resources*|    |                    |*24*         |*$35*          |*$840*      |*$1,365*      |                      |
+|                |6      |4                   |24           |               |            |              |6 staff testing info  |
 |                |       |                    |             |               |            |              |                      |
-|*Testing Resources*|       |                    |             |               |            |              |                      |
+|*Steering Team* |       |                    |*116*        |*$45*          |*$5,220*    |*$8,483*      |                      |
+|                |4      |15                  |60           |               |            |              |1.5h/day for 10 days  |
+|                |4      |4                   |16           |               |            |              |add'l 4h ad-hoc suppt.|
+|                |1      |40                  |40           |               |            |              |Champion Implementat'n|
+|                |       |                    |             |               |            |              |                      |
+|*Oversight Team*|       |                    |*42*         |*$55*          |*$2,310*    |*$3,754*      |                      |
+|                |10     |3                   |30           |               |            |              |Kickoff, time box 1&2 |
+|                |3      |4                   |12           |               |            |              |Implementation suppt. |
+|                |       |                    |             |               |            |              |                      |
+|__Total__       |       |                    |             |__$170__       |__$30,805__ |__$51,423__   |                      |
+
+###Project Schedule
+
+![schedule](link)
+
+###Project Assumptions and Risks
+
+1. The Core Team is tasked with the service of information.  The team cannot be responsible for the content of the data.   Any data issues that are identified will be reviewed and documented but are ultimately the responsibility of the data owners.
+2. This group is temporary in nature and cannot support ongoing manipulation of the data sources.  Any data products that cannot be established as sustainable solutions will not be released to the public. 
+3. Once the development of the project is substantially complete there will be a testing phase.  Program managers will be required to test and verify the accuracy of the data presented in online tools. A select group of staff will be required to test the user experience and navigation of the tools.  The Core Team PM will be responsible for organizing the tester feedback. 
