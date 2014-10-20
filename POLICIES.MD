@@ -1,0 +1,7 @@
+#IF WE'RE WILLING TO SHARE IT TO LOOK AT, WE SHOULD BE WILLING TO LET THEM DOWNLOAD IT
+
+In other words, all data we share should be available on the AGOL Open Data Portal
+
+#ALL MAPS SHALL HAVE THE SAME LOOK AND FEEL
+
+#GITHUB ALL THE THINGS
