@@ -1,9 +1,10 @@
 #User Stories
 
 ##Struggle #1: Getting people to use it
+_How do we know if they've used it? How do we track their interaction?_ **Analytics!**
 
 Tie the "Why" into every answer we give
-
+Anything that can improve VPINS is a great goal 
 ###Pavement
 
 - My road is in terrible condition. When did you last do work here?
@@ -25,4 +26,31 @@ Why we do what we do?
   - "Town Short vs Town Long vs UltraShort" -> just bridges
 
 
-Anything that can improve VPINS is a great goal 
+
+###OPS Top 10
+
+Trying to get districts back to doing maintenance instead of mini projects.
+
+Ditching
+Culvert 
+Guardrails
+Mowing
+Litter
+Tree Trimming
+Plowing
+
+Show the public a regional picture of activities at a district level - aggregate stats. "We're doing things"
+
+Accomplishments: How many plug joints, how many bridges washed
+Mimic Filkorn's fact sheet to legislature 
+
+This sounds like a great place for D3
+
+Also have asset stats - how many culverts per district - emergency summary 
+
+
+Ex: Litter picking - where and how much
+
+
+Wishlist/Dream
+Plow tracking
