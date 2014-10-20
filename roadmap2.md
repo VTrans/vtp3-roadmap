@@ -29,3 +29,6 @@ http://cdot.maps.arcgis.com/home/
 http://txdot.maps.arcgis.com/home/
 
 http://nmdot.maps.arcgis.com/home/
+
+#We probably don't want to go with AGOL so we have a more flexible platform. The very best AGOL homepage doesn't quite meet our needs.
+
