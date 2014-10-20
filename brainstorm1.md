@@ -104,7 +104,7 @@ How do we direct them?
 Click a point, buffer around it, who do they call?
 Show a blank map with just some simple polygons
 
-#Whiteboard Screenshots
+#Whiteboard Pictures
 
 ![board1](images/whiteboard1.jpg)
 ![board2](images/whiteboard2.jpg)
