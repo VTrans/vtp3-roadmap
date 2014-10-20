@@ -54,3 +54,29 @@ Ex: Litter picking - where and how much
 
 Wishlist/Dream
 Plow tracking
+Route priority map
+
+###Capital Projects
+
+What are capital projects
+
+What do we map?
+- VPINS
+- Maintenance projects
+
+They will ask us for planned maintenance projects
+- From the public's perspective, a large culvert repair isn't different than a project
+
+Things we can't map go into a report
+
+What do we share?
+- Construction year (next 3 years)
+- What projects are going to start THIS MONTH? (time slider option)
+- Get emails when a project in your area or on your commute 
+  - Tie into GoVT? BONUS
+  - Send construction feed to Google for re-routing?
+  - AGO already has routing
+
+
+
+###Who do I call?
