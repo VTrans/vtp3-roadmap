@@ -43,3 +43,5 @@ http://nmdot.maps.arcgis.com/home/
 2. One-stop documentation
 3. For the future
 
+##Reid Task1
+Historic data to mile and tenth mile segmentation
