@@ -24,7 +24,7 @@ Why we do what we do?
   - Structurally deficient
   - NBI - how we rate - UVM
   - "Town Short vs Town Long vs UltraShort" -> just bridges
-
+  - What is the user story for bridge condition?  Is it necessary?  linked to customers experience?
 
 
 ###OPS Top 10
