@@ -22,7 +22,7 @@ Why we do what we do?
   - Shutdown\Detour clearly defined/displayed warned in advance
   - Construction
   - Structurally deficient
-  - NBI - how we rate
+  - NBI - how we rate - UVM
   - "Town Short vs Town Long vs UltraShort" -> just bridges
 
 
@@ -77,6 +77,29 @@ What do we share?
   - Send construction feed to Google for re-routing?
   - AGO already has routing
 
+Where
+When (Start-end)
+Type
+Info - description
+Point of Contact - one person "Project Manager"
+
 
 
 ###Who do I call?
+
+Why do people call?
+- Maintenance
+- Construction
+- 
+
+Who do they call?
+- Regions
+  - DTA
+  - RCE
+- Projects
+- RPC's
+- Maintenance
+
+How do we direct them?
+Click a point, buffer around it, who do they call?
+Show a blank map with just some simple polygons
