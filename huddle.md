@@ -1,16 +1,9 @@
 #Day 3
 
 #Top Achievements
-- One
-- Two
-- Three
+- Matt mocked up the framework for the home page
+- Evan got a long ways on the contacts map
+- Look [here](http://vtrans.github.io/vtp3-roadmap/) for the daily work and discussion summaries
 
-#Top Issues
 
-For projects:
 
-> What's happening in front of my house?
-
-- When to show projects on the map? Public hearing? When it goes to the newspaper?
-- Two
-- Three
