@@ -4,7 +4,15 @@
 _How do we know if they've used it? How do we track their interaction?_ **Analytics!**
 
 Tie the "Why" into every answer we give
+
+Idea: 
+- Public fills out public problem 
+- Email auto-responder about how we decide - this may answer many 
+- Have a little more detailed explanation below
+- Then they respond if they are still concerned - goes to district personnel
+
 Anything that can improve VPINS is a great goal 
+
 ###Pavement
 
 - My road is in terrible condition. When did you last do work here?
@@ -48,6 +56,7 @@ This sounds like a great place for D3
 
 Also have asset stats - how many culverts per district - emergency summary 
 
+Why do we do what we do regarding (winter) maintenance?
 
 Ex: Litter picking - where and how much
 
@@ -59,6 +68,8 @@ Route priority map
 ###Capital Projects
 
 What are capital projects
+
+"What is the status of a particular project?"
 
 What do we map?
 - VPINS
