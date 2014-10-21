@@ -23,6 +23,7 @@
   - Title: (A concise title describing the map) [limit: 30 chars]
   - Subtitle: (A few extra words describing the map (if needed)) [limit: 30 chars]
 - Link: [VTransparency](http://vtransparency.vermont.gov)
+- Feedback: mailto:stephen.smith@state.vt.us
 
 ###Wishlist
 
