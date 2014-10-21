@@ -19,12 +19,13 @@
 
 ###Attributes
 - Branding
-  - Logo: ![logo](https://github.com/VTrans/vtp3-roadmap/blob/gh-pages/images/logo.png)
+  - Logo: ![logo](https://github.com/VTrans/vtp3-roadmap/blob/gh-pages/images/logo-tiny.png)
   - Title: (A concise title describing the map) [limit: 30 chars]
   - Subtitle: (A few extra words describing the map (if needed)) [limit: 30 chars]
 - Link: [VTransparency](http://vtransparency.vermont.gov)
 
 ###Wishlist
 
-- Feedback form
-- Custom colors
+- Feedback form or email button
+- Custom colors and styles
+- Analytics/tracking
