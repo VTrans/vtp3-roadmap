@@ -1,4 +1,6 @@
-7:45am
+#Day 2
+
+7:45
 
 Filkorn: SeeClickFix. I get questions about mowing a lot, and potholes
 
@@ -27,3 +29,35 @@ Filkorn: If THIS system is consistent, maybe it becomes centralized
 Nailor: Identifying the "system of record" that carries the offical word
 
 8:15am
+
+#Day 3
+
+7:30
+
+Per Nailor:
+
+Have the header of the popup mirror what people would want.
+
+"If you are curious about construction in this area, call:"
+"If you have a question about how this road is maintained, call:"
+"If you work for a municipality and have questions about this road, call:"
+Then send to Filkorn for comment
+
+Scott: Should we include email addresses? Work with Bean and Craver to figure out why the Ops emails aren't in the ref table
+
+Allen: When click, drop-down box with 3 pop-ups?
+
+
+Matt:
+
+Link as query string to open data portal
+
+Viani: 
+
+What are the themes for the homepage bins? The popout box should have a common theme
+
+The top level shows a picture and title of the theme, then the popout will contain links to the different places
+
+Scott: All data in GDB_VTrans is publishable under AGO ODP
+
+8:15
