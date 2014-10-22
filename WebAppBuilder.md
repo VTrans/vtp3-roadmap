@@ -10,6 +10,7 @@
 - Remove "Basemaps" widget from top-right of map
 
 ###Sidebar Widgets:
+- Legend (optional)
 - Directions
 - Print
 - Basemap Gallery:
