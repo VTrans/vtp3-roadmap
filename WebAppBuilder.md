@@ -31,3 +31,4 @@
 - Feedback form or email button
 - Custom colors and styles
 - Analytics/tracking
+- Figure how to clear direction path off map
