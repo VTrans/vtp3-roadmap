@@ -126,3 +126,5 @@ Data discussion:
 Projects issue - be sure to bring up Monday so Marshia can put the pressure on to get project managers to input early start date
 
 Contacts issue - there is not a good source of information 
+
+9:00 am
