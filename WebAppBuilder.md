@@ -11,7 +11,7 @@
 
 ###Sidebar Widgets:
 - Legend (optional)
-- Directions
+- Directions (set direction length units to miles)
 - Print
 - Basemap Gallery:
   - Imagery with Labels
