@@ -32,3 +32,4 @@
 - Custom colors and styles
 - Analytics/tracking
 - Figure how to clear direction path off map
+- Configure Selection Symbology for Contacts Map
