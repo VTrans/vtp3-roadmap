@@ -5,3 +5,6 @@ In other words, all data we share should be available on the AGOL Open Data Port
 #ALL MAPS SHALL HAVE THE SAME LOOK AND FEEL
 
 #GITHUB ALL THE THINGS
+
+#ALL WEB MAPS SHOULD BE ACCESSIBLE TO ALL
+Don't hide information
