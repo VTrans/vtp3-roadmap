@@ -8,3 +8,6 @@ In other words, all data we share should be available on the AGOL Open Data Port
 
 #ALL WEB SITES SHOULD BE ACCESSIBLE
 Don't hide information
+
+#COMMITS SHOULD BE DESCRIPTIVE
+or else
