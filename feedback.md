@@ -128,3 +128,74 @@ Projects issue - be sure to bring up Monday so Marshia can put the pressure on t
 Contacts issue - there is not a good source of information 
 
 9:00 am
+
+#Day 5
+
+Review latest websitte changes
+
+- Reports - should it be documents or publications?
+  - Should we move all documents to VTransparency?
+  - Nailor: This could be the future of the website of all public facing reports. They'll have to link here
+  - Nailor: Change it to "Additional Information", not just reports/publications which seem like they're just for data wonks
+ 
+Viani: We're balancing the need to put all the bridges out vs what the public wants (closures). Leaning on Rick
+
+Marshia: You have limited time, you get what you get.
+
+Nailor: Why show all bridges?
+
+Scott: Maybe you only show closed/restricted bridges?
+
+Marshia: Please give us one source of information 
+
+Viani: Second cut of the data - all active projects by year by early start date
+
+Marshia: How do we link to capital program? I like the LRS data (sarcasm). What about schedules?
+
+Filkorn: "This is a dynamic map - things can change and move around"
+
+Nailor: This will drive the better processes and data long term
+
+Allen: Colors?
+
+Marshia: What data goes there? There are issues with the data. 
+
+Nailor: You have the system, build it pointing at that. The data will get better
+
+Scott: What does management want? What do you want to see? How can we access reilable data?
+
+Viani: What do you want to show? What it is, when it starts, how long it is, who to call. What else?
+
+Filkorn: Anything deeper than that will probably be on a project website. Maybe "reclaim vs leveling", how invasive, the nature of the project? 
+
+Marshia: That data should be pulled in for paving program
+
+Allen: duration by thickness of line?
+
+Nailor: Name and label the maps based on what you're doing. "VTrans projects starting _____" so there's not a false expectation. 
+
+Marshia: The "spicer" method - find out exactly what the source is
+
+Viani: Front of book needed for public? Or just legislature?
+
+Marshia: We should show the capital project.
+
+Filkorn: Why? Too inside baseball. Make available in the open data, not on the simple project map
+
+Marshia: I'm thinking. Dont' worry about it right now. I'm afraid that people will rely on the map and it won't be there.
+
+Nailor: I HOPE that's what happens - people look to the data and they don't find it, so they fix their data.
+
+Filkorn: If you're not on the map, you're data is bad. This gives the project managers motivation.
+
+Scott: We're at 90% accuracy or better with the data generally. This will help us get to 100%
+
+Marshia: The public needs us to be at 100%. What I'm trying to get at is a single source of info "If it's not on the map I have to go to the capital program" BAD
+
+Scott: We all need to evangelize the map as the single source of information
+
+Filorn: That's your performance measurement
+
+
+
+8:15
