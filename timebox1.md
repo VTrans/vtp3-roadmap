@@ -105,7 +105,7 @@ Tetrault - What if we had a flood tomorrow. We need a data collection system tha
 Nailor - I'm wondering about the process. What are the 'tiers' of efforts? What can we accomplish in 2 days? In 5? In 2 weeks?
 
 Holden - Master map - when you click on something, get a popup menu of what you want. Link out to each section that can be used at a clicked spot
-
+![image](images/2014-10-27 09.07.18.jpg)
 
 
 
