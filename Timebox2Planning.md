@@ -1,5 +1,5 @@
 ###Week 1 Clean Up
-	Website
+	Website - steal from the factbook
 		Text
 		About page
 		Header roll up of categories
