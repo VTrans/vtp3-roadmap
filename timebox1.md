@@ -8,8 +8,8 @@
 - Allen
 - Robie
 - Teatrault
-- d'Antonio
-- FHWA
+- DiGiovanni FHWA
+- Hake FHWA
 - Scott
 - Nailor
 - Rogers
