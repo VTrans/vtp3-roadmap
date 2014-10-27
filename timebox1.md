@@ -100,7 +100,11 @@ Allen - The responsiveness is right
 
 Nailor - *Email the link to everyone*  
 
-Tetrault - What if we had a flood tomorrow. We need a data collection system that's fed through this portal. "My road is washed out" from the public. This whole development reminds me of UPlan. What are the top 10 worst roads in the state?
+Tetrault - What if we had a flood tomorrow. We need a data collection system that's fed through this portal. "My road is washed out" from the public. This whole development reminds me of UPlan. What are the top 10 worst roads in the state? Who owns the parts when they break?
+
+Nailor - I'm wondering about the process. What are the 'tiers' of efforts? What can we accomplish in 2 days? In 5? In 2 weeks?
+
+Holden - Master map - when you click on something, get a popup menu of what you want. Link out to each section that can be used at a clicked spot
 
 
 
