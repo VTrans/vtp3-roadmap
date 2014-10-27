@@ -8,16 +8,16 @@
 - Allen
 - Robie
 - Teatrault
-- FHWA 1?
-- FHWA 2?
+- d'Antonio
+- FHWA
 - Scott
 - Nailor
 - Rogers
 - Marshia
 - Devlin
 - Hurd
-- Ahern?
-- ?
+- Ahern
+- Symonds
 - Narowski
 - Filkorn
 - Holden
@@ -52,7 +52,7 @@ Rodgers - SeeClickFix will require good contacts data, so maybe that will help s
 
 ###Bridges demo
 
-? - We'll have project datasheets or a website by the first of the year for bridge projects. The closures data isn't sustainable right now. Should probably be in VPINS.
+Symonds - We'll have project datasheets or a website by the first of the year for bridge projects. The closures data isn't sustainable right now. Should probably be in VPINS.
 
 Holden - How do you tie 511 data into this?
 
