@@ -1,4 +1,4 @@
-Week 1 Clean Up
+###Week 1 Clean Up
 	Website
 		Text
 		About page
@@ -19,7 +19,7 @@ Week 1 Clean Up
 	Who do I call?
 		SeeClickFix – how can we leverage information?
 
-Week 2 Planning
+###Week 2 Planning
 	Performance Dashboards
 		Maintenance Dashboard
 		Winter Material Usage
