@@ -196,6 +196,12 @@ Scott: We all need to evangelize the map as the single source of information
 
 Filorn: That's your performance measurement
 
-
-
 8:15
+
+#Day 7
+
+7:45
+
+Dashboard/charts discussion
+
+8:30
