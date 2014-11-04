@@ -20,7 +20,9 @@
 - Analytics within ODP or AGO?
   - "Interesting... don't know"
   - Geocortex has detailed analytics including geographic
-
+- We have pre-set boundaries - a spatial query would be very helpfuls
+  - Ex: Regional dataset filter (county, district, etc)
+ 
 #Feedback @ VTrans
 ###French:
 - "Overwhelmingly positive feedback from Open Data team and others @ Esri"
@@ -46,6 +48,8 @@
 - Promotions goal?
   - Agency rollout this week, get feedback, setup for the Legislature
   - "Leading the way with open data"
+  - It's much easier for us - to share, publish, own, sustain
+  - ODP allows us to establish how the data looks - make available vs field a custom request
 
 ###Berg
 - ODP images scrollbars - override ODP CSS in the config page
@@ -53,4 +57,3 @@
 - Informal API for ODP charting?
   - Not sure - using a couple different tools - ODP unique and JS library. Will look into
 - "Summary tables" - chart values from a table vs counting number of records
-- 
