@@ -22,6 +22,16 @@
   - Geocortex has detailed analytics including geographic
 - We have pre-set boundaries - a spatial query would be very helpfuls
   - Ex: Regional dataset filter (county, district, etc)
+- Sorting datasets in AGO map - can't sort layers. Berg:
+  - Tiled image service = basemap 
+  - Dynamic map service - ArcServer - always underneath...
+  - Feature services - Raw data (_url_/#) - always on top
+- Services - when to restart/republish/re-add to map
+  - Nothing should require re-add to map unless URL change
+  - From Server - hit the live database so editing local data (even with local cache) - no restart
+  - Cartographic changes (MXD changes) - require republish(Overwrite)
+  - Next ArcServer - persistent layer IDs - reorder layers doesn't change URL
+
  
 #Feedback @ VTrans
 ###French:
